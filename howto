@@ -1,0 +1,5 @@
+git add helloworld.c
+git commit
+git push origin master
+
+git clone git@github.com:ltang-xt/C.git 
