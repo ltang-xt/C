@@ -1,5 +1,10 @@
 #test script
 
+step1: login 
+ssh -T git@github.com
+
+step2: add source code and check in local depot and push to github
+
 cd /home/ltang
 mkdir git
 cd git
