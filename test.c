@@ -14,3 +14,6 @@ vim test.c
 git add test.c
 git commit -m "modify add test.c"
 git push -u origin master
+
+######################################
+git clone https://github.com/ltang-xt/C.git
